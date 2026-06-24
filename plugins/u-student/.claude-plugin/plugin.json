@@ -1,0 +1,10 @@
+{
+  "name": "u-student",
+  "version": "0.1.0",
+  "description": "Plugin for university and course students — summarize, study, present, and write academic documents",
+  "author": {
+    "name": "Facundo Martinez Vidal",
+    "email": "facumartinezvidal@gmail.com"
+  },
+  "keywords": ["student", "university", "study", "academic", "summarize", "presentation"]
+}

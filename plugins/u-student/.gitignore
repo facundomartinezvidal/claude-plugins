@@ -1,0 +1,11 @@
+.DS_Store
+*.DS_Store
+**/.DS_Store
+
+# Claude local settings
+.claude/*.local.md
+.claude/settings.local.json
+
+# Generated files students might create
+progreso.md
+plan-estudio-*.md

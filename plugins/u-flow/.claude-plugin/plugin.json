@@ -1,0 +1,25 @@
+{
+  "name": "u-flow",
+  "version": "0.3.0",
+  "description": "Academic productivity for university students: organize course material, research with your catedra's sources, write reports and presentations against the real consigna, and generate study aids — in Spanish, grounded in your own course files",
+  "author": {
+    "name": "Facundo Martinez Vidal",
+    "email": "facundo.martinez.vidal@skaterelephant.com",
+    "url": "https://github.com/facundomartinezvidal"
+  },
+  "homepage": "https://github.com/facundomartinezvidal/claude-plugins",
+  "repository": "https://github.com/facundomartinezvidal/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "study",
+    "academic",
+    "university",
+    "summaries",
+    "flashcards",
+    "diagrams",
+    "reports",
+    "presentations",
+    "spanish",
+    "organization"
+  ]
+}

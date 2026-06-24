@@ -1,0 +1,53 @@
+{
+  "name": "fmartinezvidal-plugins",
+  "owner": {
+    "name": "Facundo Martinez Vidal",
+    "email": "facundo.martinez.vidal@skaterelephant.com",
+    "url": "https://github.com/facundomartinezvidal"
+  },
+  "metadata": {
+    "description": "Community plugins for productivity and academic workflows",
+    "version": "0.4.0"
+  },
+  "plugins": [
+    {
+      "name": "u-flow",
+      "source": "./plugins/u-flow",
+      "description": "Academic productivity for university students: organize course material, research with your catedra's sources, write reports and presentations against the real consigna, and generate study aids — in Spanish, grounded in your own course files",
+      "version": "0.3.0",
+      "category": "productivity",
+      "tags": [
+        "study",
+        "academic",
+        "university",
+        "summaries",
+        "flashcards",
+        "diagrams",
+        "reports",
+        "presentations",
+        "spanish",
+        "organization"
+      ]
+    }
+  ,
+    {
+      "name": "u-student",
+      "source": "./plugins/u-student",
+      "description": "Academic assistant for university and course students — study, summarize, create presentations, write TPs, simulate exams, and prepare oral defenses. Organized around your own course material (cronograma, programa) and always responds in Spanish.",
+      "version": "0.1.0",
+      "category": "productivity",
+      "tags": [
+        "study",
+        "academic",
+        "university",
+        "summaries",
+        "flashcards",
+        "presentations",
+        "exam",
+        "spanish",
+        "tp",
+        "organization"
+      ]
+    }
+  ]
+}
